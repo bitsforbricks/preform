@@ -1,6 +1,6 @@
 {
-  "name": "preform",
-  "version": "0.0.4",
+  "name": "@bitsforbricks/preform",
+  "version": "0.1.7",
   "description": "A lightweight React library for forms",
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "Peter Noordijk <peter.noordijk@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/peternoordijk/preform"
+    "url": "https://github.com/bitsforbricks/preform"
   },
   "license": "MIT",
   "engines": {
