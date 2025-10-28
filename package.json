@@ -20,6 +20,9 @@
     "type": "git",
     "url": "https://github.com/bitsforbricks/preform"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=6.0.0"
